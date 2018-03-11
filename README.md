@@ -7,8 +7,8 @@
   * Python >= 3.4
   * unzip, wget
 #### Python Packages
-  * Tensorflow == 1.4.0
-  * spaCy >= 2.0.0
+  * tensorflow-gpu == 1.4.0
+  * spacy >= 2.0.0
   * tqdm
   * ujson
 
